@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo12\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo12",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\Ejemplo12\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo11\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo11",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\Ejemplo11\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoDeArgumentos\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoDeArgumentos",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoDeArgumentos\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoDeArgumentos\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoPorReferencia\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoPorReferencia",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoPorReferencia\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\EjemploPasoPorReferencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo01\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplo01",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\Ejemplo01\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplos-Sesión2\\main.cpp",
+  "directory": "C:\\Users\\julia\\Documents\\Practicas\\Ejemplos-Sesión2",
+  "command": "clang++ -c C:\\Users\\julia\\Documents\\Practicas\\Ejemplos-Sesión2\\main.cpp -o C:\\Users\\julia\\Documents\\Practicas\\Ejemplos-Sesión2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

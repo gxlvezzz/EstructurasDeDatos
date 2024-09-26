@@ -1,0 +1,1 @@
+../build-Debug/Practica1/Ej1.cpp.o ../build-Debug/Practica1/Ej2_Ej2.cpp.o   
